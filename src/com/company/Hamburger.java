@@ -66,4 +66,51 @@ public class Hamburger {
         return totalPrice;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public String getMeat() {
+        return meat;
+    }
+
+    public String getBreadRollType() {
+        return breadRollType;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public String getAddition1Name() {
+        return addition1Name;
+    }
+
+    public double getAddition1Price() {
+        return addition1Price;
+    }
+
+    public String getAddition2Name() {
+        return addition2Name;
+    }
+
+    public double getAddition2Price() {
+        return addition2Price;
+    }
+
+    public String getAddition3Name() {
+        return addition3Name;
+    }
+
+    public double getAddition3Price() {
+        return addition3Price;
+    }
+
+    public String getAddition4Name() {
+        return addition4Name;
+    }
+
+    public double getAddition4Price() {
+        return addition4Price;
+    }
 }
